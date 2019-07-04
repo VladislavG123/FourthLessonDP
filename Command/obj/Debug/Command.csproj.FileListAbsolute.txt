@@ -1,0 +1,7 @@
+C:\Users\гороховв.CORP\source\repos\FourthLessonDP\Command\bin\Debug\Command.exe.config
+C:\Users\гороховв.CORP\source\repos\FourthLessonDP\Command\bin\Debug\Command.exe
+C:\Users\гороховв.CORP\source\repos\FourthLessonDP\Command\bin\Debug\Command.pdb
+C:\Users\гороховв.CORP\source\repos\FourthLessonDP\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+C:\Users\гороховв.CORP\source\repos\FourthLessonDP\Command\obj\Debug\Command.exe
+C:\Users\гороховв.CORP\source\repos\FourthLessonDP\Command\obj\Debug\Command.pdb
+C:\Users\гороховв.CORP\source\repos\FourthLessonDP\Command\obj\Debug\Command.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\гороховв.CORP\source\repos\FourthLessonDP\FourthLessonDP\bin\Debug\FourthLessonDP.exe.config
+C:\Users\гороховв.CORP\source\repos\FourthLessonDP\FourthLessonDP\bin\Debug\FourthLessonDP.exe
+C:\Users\гороховв.CORP\source\repos\FourthLessonDP\FourthLessonDP\bin\Debug\FourthLessonDP.pdb
+C:\Users\гороховв.CORP\source\repos\FourthLessonDP\FourthLessonDP\obj\Debug\BridgeTemplate.csprojAssemblyReference.cache
+C:\Users\гороховв.CORP\source\repos\FourthLessonDP\FourthLessonDP\obj\Debug\BridgeTemplate.csproj.CoreCompileInputs.cache
+C:\Users\гороховв.CORP\source\repos\FourthLessonDP\FourthLessonDP\obj\Debug\FourthLessonDP.exe
+C:\Users\гороховв.CORP\source\repos\FourthLessonDP\FourthLessonDP\obj\Debug\FourthLessonDP.pdb

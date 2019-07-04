@@ -1,0 +1,7 @@
+C:\Users\гороховв.CORP\source\repos\FourthLessonDP\Iterator\bin\Debug\Iterator.exe.config
+C:\Users\гороховв.CORP\source\repos\FourthLessonDP\Iterator\bin\Debug\Iterator.exe
+C:\Users\гороховв.CORP\source\repos\FourthLessonDP\Iterator\bin\Debug\Iterator.pdb
+C:\Users\гороховв.CORP\source\repos\FourthLessonDP\Iterator\obj\Debug\Iterator.csprojAssemblyReference.cache
+C:\Users\гороховв.CORP\source\repos\FourthLessonDP\Iterator\obj\Debug\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\гороховв.CORP\source\repos\FourthLessonDP\Iterator\obj\Debug\Iterator.exe
+C:\Users\гороховв.CORP\source\repos\FourthLessonDP\Iterator\obj\Debug\Iterator.pdb

@@ -1,0 +1,6 @@
+C:\Users\гороховв.CORP\source\repos\FourthLessonDP\Composite\bin\Debug\Composite.exe.config
+C:\Users\гороховв.CORP\source\repos\FourthLessonDP\Composite\bin\Debug\Composite.exe
+C:\Users\гороховв.CORP\source\repos\FourthLessonDP\Composite\bin\Debug\Composite.pdb
+C:\Users\гороховв.CORP\source\repos\FourthLessonDP\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+C:\Users\гороховв.CORP\source\repos\FourthLessonDP\Composite\obj\Debug\Composite.exe
+C:\Users\гороховв.CORP\source\repos\FourthLessonDP\Composite\obj\Debug\Composite.pdb
